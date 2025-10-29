@@ -10,3 +10,14 @@ This project demonstrates the implementation of a Library Management System usin
 2. **CRUD Operations**: Perform Create, Read, Update, and Delete operations on the data.
 3. **CTAS (Create Table As Select)**: Utilize CTAS to create new tables based on query results.
 4. **Advanced SQL Queries**: Develop complex queries to analyze and retrieve specific data.
+
+
+## Reports
+
+- **Database Schema**: Detailed table structures and relationships.
+- **Data Analysis**: Insights into book categories, employee salaries, member registration trends, and issued books.
+- **Summary Reports**: Aggregated data on high-demand books and employee performance.
+
+## Conclusion
+
+This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
